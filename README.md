@@ -2,7 +2,7 @@
 
 Curious what the weather is like somewhere? Search any location and find out!
 
-![Weather App Screen](weather_app_screen.png)
+<img src="weather_app_screen.png" alt="Weather App Screen" width=500>
 
 ## About
 To practice my Python skills, I wanted to explore working with APIs, so after much research I came across a weather API and built an app that lets users search for any location.
